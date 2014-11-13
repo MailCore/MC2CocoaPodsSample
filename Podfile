@@ -1,4 +1,4 @@
-platform :ios, '8.0'
+platform :ios, '7.1'
 pod 'mailcore2'
 pod 'FXKeychain'
 pod 'gtm-oauth2'
